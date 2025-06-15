@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "month": "2024-01",
+    "budgetAmount": 1000,
+    "spentAmount": 650,
+    "purchases": [
+      {
+        "id": "p1",
+        "bookId": "2",
+        "bookTitle": "Atomic Habits",
+        "amount": 450,
+        "date": "2024-01-10T12:00:00.000Z",
+        "retailer": "Amazon"
+      },
+      {
+        "id": "p2",
+        "bookId": "4",
+        "bookTitle": "Educated",
+        "amount": 200,
+        "date": "2024-01-15T15:30:00.000Z",
+        "retailer": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "month": "2024-02",
+    "budgetAmount": 1000,
+    "spentAmount": 320,
+    "purchases": [
+      {
+        "id": "p3",
+        "bookId": "1",
+        "bookTitle": "The Seven Husbands of Evelyn Hugo",
+        "amount": 320,
+        "date": "2024-02-05T10:20:00.000Z",
+        "retailer": "Amazon"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "bookId": "1",
+    "targetPrice": 250,
+    "addedDate": "2024-01-15T10:30:00.000Z",
+    "notifyOnDrop": true,
+    "priority": 1
+  },
+  {
+    "id": "2",
+    "bookId": "3",
+    "targetPrice": 300,
+    "addedDate": "2024-01-20T14:45:00.000Z",
+    "notifyOnDrop": true,
+    "priority": 2
+  },
+  {
+    "id": "3",
+    "bookId": "5",
+    "targetPrice": 280,
+    "addedDate": "2024-01-25T09:15:00.000Z",
+    "notifyOnDrop": false,
+    "priority": 3
+  }
+]

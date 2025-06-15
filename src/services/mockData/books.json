@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "coverUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=300&h=400&fit=crop",
+    "genres": ["Contemporary Fiction", "Romance", "LGBTQ+"],
+    "currentPrice": 299,
+    "originalPrice": 399,
+    "retailerPrices": {
+      "Amazon": 299,
+      "Flipkart": 319,
+      "BookDepository": 345
+    },
+    "synopsis": "Aging and reclusive Hollywood movie icon Evelyn Hugo is finally ready to tell the truth about her glamorous and scandalous life.",
+    "format": "Paperback",
+    "language": "English",
+    "rating": 4.6
+  },
+  {
+    "id": "2",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "coverUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=300&h=400&fit=crop",
+    "genres": ["Self-Help", "Productivity", "Psychology"],
+    "currentPrice": 450,
+    "originalPrice": 599,
+    "retailerPrices": {
+      "Amazon": 450,
+      "Flipkart": 470,
+      "BookDepository": 520
+    },
+    "synopsis": "No matter your goals, Atomic Habits offers a proven framework for improving every day.",
+    "format": "Paperback",
+    "language": "English",
+    "rating": 4.7
+  },
+  {
+    "id": "3",
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "coverUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=400&fit=crop",
+    "genres": ["Contemporary Fiction", "Fantasy", "Philosophy"],
+    "currentPrice": 350,
+    "originalPrice": 450,
+    "retailerPrices": {
+      "Amazon": 350,
+      "Flipkart": 365,
+      "BookDepository": 390
+    },
+    "synopsis": "Between life and death there is a library, and within that library, the shelves go on forever.",
+    "format": "Paperback",
+    "language": "English",
+    "rating": 4.2
+  },
+  {
+    "id": "4",
+    "title": "Educated",
+    "author": "Tara Westover",
+    "coverUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=300&h=400&fit=crop",
+    "genres": ["Memoir", "Biography", "Non-fiction"],
+    "currentPrice": 280,
+    "originalPrice": 380,
+    "retailerPrices": {
+      "Amazon": 280,
+      "Flipkart": 295,
+      "BookDepository": 320
+    },
+    "synopsis": "A memoir about a young girl who, kept out of school, leaves her survivalist family and goes on to earn a PhD from Cambridge.",
+    "format": "Paperback",
+    "language": "English",
+    "rating": 4.5
+  },
+  {
+    "id": "5",
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "coverUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=300&h=400&fit=crop",
+    "genres": ["Historical Fiction", "Romance", "Mythology"],
+    "currentPrice": 320,
+    "originalPrice": 420,
+    "retailerPrices": {
+      "Amazon": 320,
+      "Flipkart": 340,
+      "BookDepository": 365
+    },
+    "synopsis": "A tale of gods, kings, immortal fame and the human heart, The Song of Achilles is a dazzling literary feat.",
+    "format": "Paperback",
+    "language": "English",
+    "rating": 4.4
+  },
+  {
+    "id": "6",
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "coverUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=300&h=400&fit=crop",
+    "genres": ["Historical Fiction", "Fantasy", "Mythology"],
+    "currentPrice": 340,
+    "originalPrice": 440,
+    "retailerPrices": {
+      "Amazon": 340,
+      "Flipkart": 355,
+      "BookDepository": 380
+    },
+    "synopsis": "In the house of Helios, god of the sun and mightiest of the Titans, a daughter is born. But Circe is a strange child.",
+    "format": "Paperback",
+    "language": "English",
+    "rating": 4.3
+  },
+  {
+    "id": "7",
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "coverUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=400&fit=crop",
+    "genres": ["Thriller", "Mystery", "Psychological Fiction"],
+    "currentPrice": 299,
+    "originalPrice": 399,
+    "retailerPrices": {
+      "Amazon": 299,
+      "Flipkart": 315,
+      "BookDepository": 340
+    },
+    "synopsis": "Alicia Berenson's life is seemingly perfect. A famous painter married to an in-demand fashion photographer.",
+    "format": "Paperback",
+    "language": "English",
+    "rating": 4.1
+  },
+  {
+    "id": "8",
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "coverUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=300&h=400&fit=crop",
+    "genres": ["Contemporary Fiction", "Mystery", "Coming of Age"],
+    "currentPrice": 380,
+    "originalPrice": 480,
+    "retailerPrices": {
+      "Amazon": 380,
+      "Flipkart": 395,
+      "BookDepository": 420
+    },
+    "synopsis": "For years, rumors of the 'Marsh Girl' have haunted Barkley Cove, a quiet town on the North Carolina coast.",
+    "format": "Paperback",
+    "language": "English",
+    "rating": 4.2
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "id": "user1",
+  "favoriteGenres": ["Contemporary Fiction", "Romance", "Self-Help", "Mystery"],
+  "priceRange": {
+    "min": 0,
+    "max": 500
+  },
+  "monthlyBudget": 1000,
+  "preferredFormats": ["Paperback", "Kindle"],
+  "favoriteAuthors": ["Taylor Jenkins Reid", "Matt Haig", "James Clear"],
+  "isOnboarded": false,
+  "notificationPreferences": {
+    "priceAlerts": true,
+    "newDeals": true,
+    "monthlyWrapUp": true
+  }
+}
