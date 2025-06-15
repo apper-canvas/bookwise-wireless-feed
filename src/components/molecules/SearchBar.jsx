@@ -5,7 +5,7 @@ import ApperIcon from '@/components/ApperIcon';
 const SearchBar = ({ 
   onSearch, 
   placeholder = "Search books, authors, genres...",
-  showSuggestions = true,
+  enableSuggestions = true,
   className = ''
 }) => {
   const [query, setQuery] = useState('');
