@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import BookCard from '@/components/molecules/BookCard';
-
+import ApperIcon from '@/components/ApperIcon';
 const BookGrid = ({ books = [], loading = false, onWishlistChange }) => {
   if (loading) {
     return (
